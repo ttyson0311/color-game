@@ -1,0 +1,42 @@
+body {
+  background-color: #232323;
+  font-family: "Abhaya Libre", serif;
+}
+
+.square {
+  width: 30%;
+  background: purple;
+  padding-bottom: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+h1 {
+  color: white;
+}
+
+#stripe {
+  background: white;
+  height: 50px;
+  text-align: center;
+  color: black;
+  font-size: 24px;
+}
+
+.selected {
+  background: #5bbdf1;
+}
+
+.btn {
+  margin-top: 10px;
+  margin: 5px;
+}
+
+.btn:focus {
+  outline: none;
+}
